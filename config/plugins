@@ -1,0 +1,15 @@
+# default list of plugins
+
+# Log to syslog (disabled by default, see docs)
+# log.syslog
+
+# see 'haraka -h tls' for config instructions before enabling!
+# tls
+
+
+# Only accept mail for your personal list of hosts. Edit config/host_list
+# NOTE: THIS IS REQUIRED for inbound email.
+rcpt_to.in_host_list
+
+#send mails to ascio
+queue/aws

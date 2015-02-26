@@ -1,0 +1,94 @@
+******* Email completed template to HOSTMASTER@ASCIO.COM *******
+By filling out this template, Partner is reminded to be bound by 
+the terms & conditions of the Partner Agreement (be AscioNAME/
+AscioNIC or any agreement) including all appendices, exhibits,
+general terms etc.
+
+********************************************************************
+
+ AscioNIC Domain Registration Template Version 1.0.10
+
+********************************************************************
+
+0a.  Account.....................................:*******
+0b.  Password....................................:*******
+0c.  Account reference...........................: 
+0d.  Transactioncomment..........................:
+
+1a.  (N)ew (Q)ueue (R)enew (E)xpire (U)nexpire...:N 
+1b.  Comments....................................: 
+
+2a.  Domain Name.................................:hubertusblick.de 
+2b.  Registration period (1-10)..................:1
+2c.  EncodingType (RACE).........................: 
+2d.  Domain handle (if known)....................:
+2e.  Email fwd destination (.name)...............: 
+2f.  Authorization...............................:
+2n.  Local Presence.................: 
+
+Organization/Company Using Domain Name
+
+3a.  Contact Last Name .............:Mag.FH
+3b.  Contact First Name ............:Haeckl Sebastian
+3c.  Owner Organization Name........:Rhomberg Bau GmbH
+3d.  Street Address.................:Mariahilfstrasse 29
+3e.  Street Address 2...............: 
+3f.  City...........................:Bregenz
+3g.  State..........................: 
+3h.  Postal Code....................:A-6900
+3i.  Country........................:AT
+3j.  Phone Number...................:+43.55744030
+3k.  Fax Number.....:
+3l.  Email..........................:it-support@rhombergbau.at
+3m.  Owner Number...................:
+
+Administrative Contact of Domain Name
+4a.  Speednic Handle (if known).....:GK28794 
+4b.  Last Name .....................:Mag.FH
+4c.  First Name ....................:Haeckl Sebastian
+4d.  Organization Name..............:Rhomberg Bau GmbH
+4e.  Street Address.................:Mariahilfstrasse 29
+4f.  Street Address 2...............: 
+4g.  City...........................:Bregenz
+4h.  State..........................: 
+4i.  Postal Code....................:A-6900
+4j.  Country........................:AT
+4k.  Phone Number...................:+43.55744030
+4l.  Fax Number.....................:
+4m.  Email..........................:it-support@rhombergbau.at
+
+Technical Contact of Domain Name
+5a.  Speednic Handle (if known).....: GK444
+
+
+Billing Contact of Domain Name
+6a.  Speednic Handle (if known).....:GK444 
+
+
+Primary Name Server
+7a.  Primary Server Hostname........:ns1.edis.at
+7b.  Primary Server IP-address......:91.227.204.227
+
+Secondary Name Server(s)
+8a. Secondary Server Hostname.......:ns2.edis.at
+8b. Secondary Server IP-address.....:91.227.205.227
+
+3rd Name Server
+8a.1  3rd Server Hostname...........:ns5.edis.at
+8b.1  3rd Server IP-address.........:46.17.57.5
+
+4th Name Server
+8a.2  4th Server Hostname...........:ns6.edis.at
+8b.2  4th Server IP-address.........:178.209.42.105 
+
+Nexus (only .us)
+20a. Domain Name Application Purpose:
+20b. Category.......................:
+
+
+END OF REGISTRATION TEMPLATE
+
+********************************************************************
+For instructions, please refer to:
+http://www.ascio.com/Home/Partner+area/Support/Templates
+********************************************************************

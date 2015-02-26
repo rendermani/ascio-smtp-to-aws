@@ -1,0 +1,6 @@
+{
+	"name":"ascio_smtp_to_aws",
+	"description":"A mailgateway-plugin for haraka that receives mail and sends it to the ascio webservice.",
+	"version":"0.0.1",
+	"dependencies":{}
+}
