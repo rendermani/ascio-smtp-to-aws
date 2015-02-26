@@ -15,12 +15,6 @@ Configuration:
 * Edit config/aws.ini to add your credentials
 * Edit config/host_list for allowed hosts
 
-Run:
-----
-1. goto ascio-smtp-to-aws
-2. haraka -c haraka
-
-
 The setting "asynchronous = false" in the aws.ini means:
 
 * AWS errormessages are sent as SMTP-response
@@ -30,3 +24,10 @@ The setting "asynchronous = true" in the aws.ini means:
 
 * You will always get a 250 OK response
 * The SMTP response is before the order was sent to aws
+
+Run:
+----
+1. goto ascio-smtp-to-aws
+2. haraka -c haraka
+
+
