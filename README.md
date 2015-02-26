@@ -6,8 +6,6 @@ Installation:
 
 1. Download and install Haraka: https://github.com/baudehlo/Haraka
 2. Download and install ascio-smtp-to-aws: git clone https://github.com/baudehlo/Haraka.git
-3. Change to the ascio-smtp-to-aws directory
-4. npm install 
 
 Configuration:
 ---------------
