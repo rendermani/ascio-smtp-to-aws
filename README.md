@@ -5,7 +5,7 @@ Installation:
 --------------
 
 1. Download and install Haraka: https://github.com/baudehlo/Haraka
-2. Download and install ascio-smtp-to-aws: git clone https://github.com/baudehlo/Haraka.git
+2. Download and install ascio-smtp-to-aws: git clone https://github.com/rendermani/ascio-smtp-to-aws.git
 
 Configuration:
 ---------------
@@ -29,3 +29,8 @@ Run:
 2. haraka -c haraka
 
 
+Howto Test:
+-----------
+1. send a mail to an hostname that is defined in the file config/host_list (eg.: ascio@localhost)
+2. from-address can be any address. Subject can be any subject
+3. http://www.jetmore.org/john/code/swaks/ is a good tool for testing SMTP
