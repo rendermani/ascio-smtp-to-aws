@@ -11,6 +11,7 @@ Configuration:
 ---------------
 
 * Edit config/aws.ini to add your credentials
+* Edit config/smtp.ini for SMTP-Settings like IP and Port
 * Edit config/host_list for allowed hosts
 
 The setting "asynchronous = false" in the aws.ini means:
@@ -31,6 +32,10 @@ Run:
 
 Howto Test:
 -----------
-1. send a mail to an hostname that is defined in the file config/host_list (eg.: ascio@localhost)
-2. from-address can be any address. Subject can be any subject
-3. http://www.jetmore.org/john/code/swaks/ is a good tool for testing SMTP
+1. configure 
+2. send a mail to an hostname that is defined in the file config/host_list (eg.: ascio@localhost)
+3. from-address can be any address. Subject can be any subject
+4. http://www.jetmore.org/john/code/swaks/ is a good tool for testing SMTP
+
+
+Haraka can do TLS and has several AuthPlugins. The default setting is no authentification and no encryption. It is best to run the gateway on the same machine as the domain-tool. However, if you need higher secury haraka can do it. 
